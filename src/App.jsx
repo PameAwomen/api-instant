@@ -52,21 +52,6 @@ export default function API() {
 <script src="main.jsx"></script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         </div>
   );
 }
