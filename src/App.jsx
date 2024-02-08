@@ -1,3 +1,9 @@
+import { render } from 'react-dom';
+import API from './App.jsx';
+
+render(<App />, document.getElementById('root'));
+
+
 
 
 export default function API() {
