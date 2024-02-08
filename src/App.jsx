@@ -1,5 +1,5 @@
 import { render } from 'react-dom';
-import API from './App.jsx';
+import App from './App.jsx';
 
 render(<App />, document.getElementById('root'));
 
