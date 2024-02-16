@@ -126,3 +126,7 @@ overflow: hidden;
   background-color: rgba(2, 2, 2, 0.8);
 }
 
+span {
+  width: 100%;
+  height: fit-content;
+}
